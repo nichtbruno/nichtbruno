@@ -9,7 +9,6 @@
 - 🔧 I love building some... _questionable✨_ things
 - ⚡ I breathe C and Zig 🗣️
 - 🌸 And ofc hitting the gym and taking walks
-##
 
 #### What about the future? 🔮
 - Idk bro, I'm just excited for the summer ☀️😎
