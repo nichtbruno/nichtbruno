@@ -9,13 +9,11 @@
 - 🔧 I love building some... _questionable✨_ things
 - ⚡ I breathe C and Zig 🗣️
 
-#### What about the future? 🔮
-- Idk bro, I'm just excited for the summer ☀️😎
-##
+#### Inspirational ultra epic quote 👇:
+- _"Quote" - bruno 2025_
 
 <details>
   <summary>Don't look here.... ❌</summary>
-  
-  #### Inspirational ultra epic quote 👉 _"I forgot the quote :O"_
+
   #### I use vim btw 🗿
 </details>
