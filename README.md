@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+## nichtbruno 👾
 
 #### It doesn't get _better_ than this 🤫:
 [![My Skills](https://skillicons.dev/icons?i=c,zig,lua,r,latex)](https://skillicons.dev)
