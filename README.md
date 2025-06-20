@@ -6,7 +6,7 @@
 
 #### What do I do with my life? 🤔
 - 🔧 Building my own 3d Engine in Zig
-- ⚡ I breathe C and Zig 🗣️
+- ⚡ You should learn Zig 🫵😎
 
 #### Inspirational ultra epic quote 👇:
 - _"Quote" - bruno 2025_
