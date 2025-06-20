@@ -1,12 +1,11 @@
 ![Header](./github-header-image.png)
 
-#### It doesn't get more _PEAK_ than this 🤫:
+#### It doesn't get _better_ than this 🤫:
 [![My Skills](https://skillicons.dev/icons?i=c,zig,lua,r,latex)](https://skillicons.dev)
 ##
 
 #### What do I do with my life? 🤔
-- ⚛️ I like learning Physics and Maths
-- 🔧 I love building some... _questionable✨_ things
+- 🔧 Building my own 3d Engine in Zig
 - ⚡ I breathe C and Zig 🗣️
 
 #### Inspirational ultra epic quote 👇:
