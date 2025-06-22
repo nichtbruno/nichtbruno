@@ -4,6 +4,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,zig,lua,r,latex)](https://skillicons.dev)
 ##
 
+#### Almost everything new will be done on Codeberg! So check that out:
+- ![https://codeberg.org/nichtbruno]
+
 #### What do I do with my life? 🤔
 - 🔧 Building my own 3d Engine in Zig
 - ⚡ You should learn Zig 🫵😎
