@@ -5,7 +5,7 @@
 ##
 
 #### Almost everything new will be done on Codeberg! So check that out:
-- ![codeberg@nichtbruno](https://codeberg.org/nichtbruno)
+- [codeberg@nichtbruno](https://codeberg.org/nichtbruno)
 
 #### What do I do with my life? 🤔
 - 🔧 Building my own 3d Engine in Zig
